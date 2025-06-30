@@ -16,7 +16,7 @@ The final project include the following components:
 2. Power BI Dashboard
 - 	Import the cleaned dataset into Power BI
 - 	Create an interactive dashboard that includes:
-- 	Key Performance Indicators (e.g., Total Sales, Total Profit, Quantity Sold)
+* 	Key Performance Indicators (e.g., Total Sales, Total Profit, Quantity Sold)
 * 	Time-based sales trends
 * 	Product and category performance
 * 	Regional sales breakdown
